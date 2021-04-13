@@ -1,8 +1,8 @@
-TOTAL SALES CY - Total Sales Current Year
-PROFIT - Profit
-SAME PERIOD LY - Same Period Last Year
-GROSS MARGIN - Gross Margin Percentage
-% YoY GROWTH - Year over Year Growth Percentage
+TOTAL SALES CY - Total Sales Current Year <br />
+PROFIT - Profit <br />
+SAME PERIOD LY - Same Period Last Year <br />
+GROSS MARGIN - Gross Margin Percentage <br />
+% YoY GROWTH - Year over Year Growth Percentage <br />
 
 
 ![Screenshot 2021-04-13 110755](https://user-images.githubusercontent.com/82416378/114536050-9e290980-9c48-11eb-879f-cdef9228f04b.png)
